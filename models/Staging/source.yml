@@ -5,3 +5,4 @@ sources:
       schema: raw_schema
       tables:
         - name: raw_custormerdata
+        - name: Raw_order
