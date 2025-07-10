@@ -6,3 +6,6 @@ sources:
       tables:
         - name: raw_custormerdata
         - name: Raw_order
+        - name: customers 
+
+    
